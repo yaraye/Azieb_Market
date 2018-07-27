@@ -239,7 +239,7 @@ p {
   box-shadow: 0px 3px 3px 0px rgba(33, 37, 41, 0.1);
 }
 
-.btn-primary {
+.btn-primary,{
   background-color: #e6a756;
   border-color: #e6a756;
 }
