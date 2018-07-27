@@ -252,3 +252,8 @@ p {
 .font-weight-light {
   font-weight: 100 !important;
 }
+
+#meat{
+  width: 541px;
+  height: 475px;
+}
